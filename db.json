@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Buy groceries",
+      "notes": "Milk, eggs, sattu",
+      "status": "done",
+      "dueDate": "2025-11-20T12:00:00Z",
+      "updatedAt": "2025-11-14T20:11:39.714Z"
+    },
+    {
+      "id": 1763149947628,
+      "title": "buy",
+      "notes": "whey protein ",
+      "status": "todo",
+      "updatedAt": "2025-11-14T19:52:27.628Z"
+    },
+    {
+      "id": 1763150127198,
+      "title": "rydhhdb",
+      "notes": "xbbxbxb",
+      "status": "todo",
+      "updatedAt": "2025-11-14T19:55:27.198Z"
+    },
+    {
+      "id": 1763150147352,
+      "title": "yehdndb",
+      "notes": "sbwnjsicuebd",
+      "status": "todo",
+      "updatedAt": "2025-11-14T19:55:47.352Z"
+    },
+    {
+      "id": 1763150979555,
+      "title": "eyehhdb",
+      "notes": "dgdbbdbc",
+      "status": "todo",
+      "updatedAt": "2025-11-14T20:09:39.555Z"
+    }
+  ]
+}
